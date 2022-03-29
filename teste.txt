@@ -1,0 +1,81 @@
+201 10/12 2 chat: Poderia usar [4:1]? Seria erro de sintaxe ou só de padronização?
+201 10/12 2 chat: Uivar
+201 10/12 4 chat: Intel 4004 Foi fabricado em 1971 então acho que 50 anos, professor
+201 11/2 1 Falstad_ff: circuito com 2 flip-flop usando oscilador em anel -assincrono
+201 11/2 1 Falstad_ff: contador de 4 bit -assincrono
+201 11/2 40 Falstad_ff: registrador de deslocamento de 4 bit com carga parallela -timestep
+201 11/2 4 chat: email fora
+201 14/12 2 chat: professor, minha dúvida é por que no git está para baixar o MSYS2 para windows
+201 14/12 4 chat: 3 até 7
+201 14/12 4 chat: 4
+201 15/3 130 FPGA_ff: Maquina De Estados - Parabrisa -conta_gota
+201 15/3 30 FPGA_comb: Lógica combinatória e display de 7 segmentos 
+201 17/2 10 FPGA_comb: Lógica combinatória e display de 7 segmentos -comentario
+201 17/2 30 FPGA_comb: ULA
+201 17/2 45 FPGA_comb: 4 exercicios OAC.Comb -sem_if
+201 17/3 40 FPGA_comb: Implemente uma memória de uma capacidade de 16 bit 
+201 18/2 10 chat: le ta saindo de 1000 para 0100 desloca pra direita então
+201 18/2 10 chat: n da pra deslocar 3.3 bits  só pega pra int
+201 18/2 10 chat: Se não me engano é << ou >>
+201 18/2 10 chat: tem até uma questão de precisão 0.1 + 0.2 é != 0.3
+201 20/3 10 chat: email erro site gravação
+201 21/2 10 chat: email erro ao sintetizar
+201 22/2 20 chat: email duvida simulação 
+201 22/2 30 FPGA_ff: -titulo -nmagico
+201 22/2 35 FPGA_ff: Circuitos sequenciais básicos -nmagico -comentario
+201 22/2 40 FPGA_ff: Implemente um jogo inspirado no caça-níquel -nmagico
+201 22/2 4 chat: 0110 + 1
+201 22/2 6 chat: 1100
+201 22/3 10 proc: executar o código de máquina na placa FPGA 
+201 22/3 15 proc: Potencia em assembly   -coment_dentro_codigo -compilado -teste_argumentos
+201 22/3 20 proc: lupi - Código C Potencia -teste_argumentos
+201 22/3 20 proc: lupi conforme guia de laboratório
+201 22/3 30 proc: executar o código Assembly na placa FPGA	 
+201 23/11 1 chat: Professor, toda aula terá um projeto? E aqueles extras do site são opcionais?
+201 23/11 2 chat: 1000
+201 23/11 2 chat: 100 centavos equivalem a 1 décimo?
+201 23/11 2 chat: Sim sim, quase ctz q é do The last jedi
+201 23/11 3 chat: Guilherme agora precisando só de 698
+201 23/3 1 proc: A instrução addi   -coment_nome
+201 25/11 2 chat: email curso gratuito:
+201 26/11 1 Falstad_comb: AND COM 3 NOR -elementar
+201 26/11 1 Falstad_comb: AOI -elementar
+201 26/11 2 chat: Então posso trocar o terra e a fonte de tensão de 1 terminal por uma de dois terminais?
+201 26/11 2 chat: Professor, coloquei uma fonte de tensão que tem 2 terminais ai tem 0V e 3V e o terra é 0A. qual seria a diferença de usar o terra ou o 0v em um circuito?
+201 26/11 2 chat: Professor, esses quadradin amarelo seria curto?
+201 26/11 3 Falstad_comb: Meio inversor NMOS
+201 26/11 3 Falstad_comb: Meio inversor PMOS
+201 26/11 4 Falstad_comb: Inversor
+201 26/11 5 Falstad_comb: Não-e
+201 26/11 8 Falstad_comb: Não-ou
+201 29/11 1 Falstad_comb: MEIO SOMADOR -elementar
+201 29/11 1 Falstad_comb: porta XOR ou porta XNOR usando 4 portas NAND de duas entradas ou 4 portas NOR de duas entradas -elementar
+201 29/11 1 Falstad_comb: somador completo usando portas NAND e portas NOR -elementar
+201 29/11 1 Falstad_comb: somador completo usando XOR e NAND -elementar
+201 29/11 5 chat: email vai-um
+201 30/11 1 chat: Essa porta AOI/OAI por par de transistores seria para entradas pares ?
+201 30/11 1 chat: Professor, a porta vai-um tem qual nome [em inglês] ?
+201 30/11 1 Falstad_comb: porta AOIOAI, por par de transistores -função
+201 30/11 2 chat: Ai seria os projeto Falstad usando portas?
+201 30/11 2 chat: Gera um link reduzido e deixa numa pasta
+201 30/11 2 chat: Professor, eu fiz uma AOI com usando 2 nand ligando a 2 inversores ligado a um nor isso seria conectar várias portas elementares?
+201 30/11 2 chat: to salvando os meus assim q é só clicar e ele vai \o/
+201 30/11 3 chat: Creio que seja um nand de not A e not B invertido que vire um or
+201 30/11 3 chat: pq nand normal barrado vira and de volta
+201 30/11 4 chat: e-ou-invertido = ¬((A.B) + (C.D)) ?
+201 30/11 4 chat: Professor, mas se por exemplo eu precisar usar 1 nand com inversor pra virar um and não seria 2 cmos ?
+201 30/11 8 Falstad_comb: NÃO-OU
+201 3/12 2 chat: Não :c
+201 3/12 3 chat: AMD sem cooler
+201 3/12 4 chat: Pq são milhões de pequenas peça
+201 4/2 5 chat: SWI[6:4], pois é onde tem espaço pra entrada dos dados
+201 7/2 4 chat: email fora
+201 8/2 12 Falstad_comb: Subtrator completo
+201 8/2 2 chat: x100
+201 8/2 3 chat: dar f5 pra refazer a animação
+201 8/2 5 Falstad_comb: Meio somador
+201 8/2 6 chat: 299 792 458 m / s
+201 8/2 6 Falstad_comb: Prioridade 4:2
+201 8/3 6 chat: Espaço
+201 9/2 6 Falstad_comb: (De)multiplexador 16:1 -função?
+201 9/2 8 Falstad_comb: (De)codificador 4:16 -função?
